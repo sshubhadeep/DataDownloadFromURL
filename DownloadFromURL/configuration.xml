@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Here is some application configuration information</comment>
+<entry key="temp_loc">E:/Temp_Downloaded_Files/</entry>
+<entry key="final_loc">E:/Downloaded_Files/</entry>
+</properties>

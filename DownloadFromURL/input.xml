@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Here are some urls to test</comment>
+<entry key="http">http://www.journaldev.com/sitemap.xml</entry>
+<entry key="ftp">ftp://speedtest.tele2.net/1MB.zip</entry>
+<entry key="sftp">sftp://demo:password@test.rebex.net:22/readme.txt</entry>
+</properties>
